@@ -5,7 +5,7 @@ Registro das atividades, avaliações e projeto da disciplina de Gestão Estrat�
 
 **Professores:** Anderson Almeida, Josue Sander
 
-**Equipe:** [Mary](https://github.com/Mary-Ana-Carvalhais-Carneiro/Gestao-Estrategica-GTI6_IFPR?utm_source=gemini), [Yedda](https://github.com/YeddaMC?utm_source=gemini)
+**Equipe:** [Mary](https://github.com/Mary-Ana-Carvalhais-Carneiro), [Yedda](https://github.com/YeddaMC?utm_source=gemini)
 
 
 # Planejamento Estratégico - Gestão Estratégica (IFPR 2026.2)
